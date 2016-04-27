@@ -1,0 +1,14 @@
+body {
+	margin :0;
+	background-color :white;
+}
+header{
+	background: #0080ff;
+	color: white;
+	padding: 15px 15px 15px 15px;
+}
+
+.panel-body {
+background: #D0D0D0;
+}
+
